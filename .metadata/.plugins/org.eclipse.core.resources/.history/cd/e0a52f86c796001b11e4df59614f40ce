@@ -1,0 +1,10 @@
+package akshay.streams;
+
+public class StreamEx2PrintnumberPattern {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
