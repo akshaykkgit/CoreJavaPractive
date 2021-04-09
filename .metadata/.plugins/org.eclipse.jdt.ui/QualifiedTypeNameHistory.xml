@@ -1,2 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.stream.Stream"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.function.Predicate"/>
+<fullyQualifiedTypeName name="akshay.streams.Student"/>
+<fullyQualifiedTypeName name="java.util.stream.Collector"/>
+<fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="pattern.creationalPatten.factoryMehodPattern.Plan"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="pattern.creationalPatten.factoryMehodPattern.Example2.NotificationFactory"/>
+<fullyQualifiedTypeName name="pattern.creationalPatten.factoryMehodPattern.Example2.Notification"/>
+<fullyQualifiedTypeName name="pattern.creationalPatten.AbstarctFactoryPattern.Example1.Bank"/>
+<fullyQualifiedTypeName name="pattern.creationalPatten.AbstarctFactoryPattern.Example1.Loan"/>
+<fullyQualifiedTypeName name="pattern.creationalPatten.AbstarctFactoryPattern.Example1.SBI"/>
+<fullyQualifiedTypeName name="pattern.creationalPatten.AbstarctFactoryPattern.Example1.AbstractFactory"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+</qualifiedTypeNameHistroy>
