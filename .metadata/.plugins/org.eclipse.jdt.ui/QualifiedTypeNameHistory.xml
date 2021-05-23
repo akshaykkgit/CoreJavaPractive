@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.util.stream.Stream"/>
-<fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="java.util.function.Predicate"/>
 <fullyQualifiedTypeName name="akshay.streams.Student"/>
-<fullyQualifiedTypeName name="java.util.stream.Collector"/>
-<fullyQualifiedTypeName name="java.util.stream.Collectors"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="pattern.creationalPatten.factoryMehodPattern.Plan"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="pattern.creationalPatten.factoryMehodPattern.Example2.NotificationFactory"/>
 <fullyQualifiedTypeName name="pattern.creationalPatten.factoryMehodPattern.Example2.Notification"/>
 <fullyQualifiedTypeName name="pattern.creationalPatten.AbstarctFactoryPattern.Example1.Bank"/>
@@ -18,7 +11,32 @@
 <fullyQualifiedTypeName name="java.io.BufferedReader"/>
 <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
 <fullyQualifiedTypeName name="java.io.IOException"/>
-<fullyQualifiedTypeName name="akshay.functionalpgm.Greeting"/>
 <fullyQualifiedTypeName name="akshay.functionalpgm.Greeter"/>
+<fullyQualifiedTypeName name="akshay.lambda.MyLambda"/>
 <fullyQualifiedTypeName name="akshay.functionalpgm.GreetingImpl"/>
+<fullyQualifiedTypeName name="akshay.functionalpgm.Greeting"/>
+<fullyQualifiedTypeName name="java.lang.Runnable"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+<fullyQualifiedTypeName name="akshay.lambda.Person"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.lang.Long"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="akshay.funinterface.SampleFunInterface"/>
+<fullyQualifiedTypeName name="java.util.function.Predicate"/>
+<fullyQualifiedTypeName name="akshay.functionalpgm.OptionalTest"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="javax.xml.stream.util.StreamReaderDelegate"/>
+<fullyQualifiedTypeName name="java.util.stream.Stream"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.stream.Collector"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.util.Optional"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="akshay.streams.Customer"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>
