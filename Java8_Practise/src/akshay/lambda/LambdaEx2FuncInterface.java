@@ -1,5 +1,5 @@
 package akshay.lambda;
-
+@FunctionalInterface
 interface FuncInterface
 {
     // An abstract function
@@ -18,6 +18,7 @@ public class LambdaEx2FuncInterface {
 		
 		FuncInterface funcInterface = (int x)->System.out.println(2*x);
 		funcInterface.abstractFun(5);
+		funcInterface.normalFun();
 		
 		FuncInterface funcInterface2 = (int x)->{if(x>0) { 
 			int result=0;

@@ -1,6 +1,7 @@
 package akshay.lambda.collections;
 
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.Map;
 
 public class IteratiingHsahmap {
@@ -18,6 +19,13 @@ public class IteratiingHsahmap {
         
         System.out.println("for entrySet()");
         for (Map.Entry<String, Integer> entry : map.entrySet()) {
+            System.out.println("[Key] : " + entry.getKey() + " [Value] : " + entry.getValue());
+        }
+        
+        System.out.println("Iterator");
+        Iterator iter = map.entrySet().iterator();
+        while (iter.hasNext()	) {
+            Map.Entry entry = (Map.Entry) iter.next();
             System.out.println("[Key] : " + entry.getKey() + " [Value] : " + entry.getValue());
         }
 

@@ -7,5 +7,6 @@ public class TestEnum
     {
     	Level c1 = Level.HIGH;
         System.out.println(c1);
+        
     }
 }
