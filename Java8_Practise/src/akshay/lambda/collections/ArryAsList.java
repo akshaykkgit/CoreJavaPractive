@@ -12,6 +12,7 @@ public class ArryAsList {
 		List<String>  list =Arrays.asList(a);
 		System.out.println(list.stream().count());
 		list.forEach((item) -> {System.out.println(item);});
+		
 
 	}
 

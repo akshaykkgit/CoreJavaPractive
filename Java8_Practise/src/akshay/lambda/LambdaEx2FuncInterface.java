@@ -32,7 +32,34 @@ public class LambdaEx2FuncInterface {
 		}};
 		
 		funcInterface2.abstractFun(4);
+		
+		//////////////////////
+		//Runnable Bulky code
+	  Runnable r1=new Runnable() {
+		
+		@Override
+		public void run() {
+			System.out.println("Anonymous class Runnable");
+			
+		}
+	};
+	//Lambda code
+	Runnable r2= ()-> {
+		System.out.println("Lambda Runnable");
+	};
+	
+	Thread t1 =new Thread(r1);
+	Thread t2 =new Thread(r2);
+	t1.start();
+	t2.start();
+	
+	
+	
+	
 	}
+	
+	
+	
 	
 	
 

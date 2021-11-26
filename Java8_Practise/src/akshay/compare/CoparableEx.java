@@ -11,7 +11,7 @@ public class CoparableEx {
 		al.add(new Student(106,"Ajay",27));  
 		al.add(new Student(105,"Jai",21));  
 		
-		Collections.sort(al);
+		Collections.sort(al,new  Student2AgeComparator());
 
 		al.forEach((s)->{
 			System.out.println(s.rollNo+","+s.name+","+s.age);
